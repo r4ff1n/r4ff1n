@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4ff1n)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **r4ff1n/r4ff1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
